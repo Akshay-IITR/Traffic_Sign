@@ -1,0 +1,201 @@
+{
+    "Epoch": 1,
+    "Train_Accuracy": "0.1758",
+    "Test_Accuracy": "0.1604"
+}{
+    "Epoch": 2,
+    "Train_Accuracy": "0.3509",
+    "Test_Accuracy": "0.3329"
+}{
+    "Epoch": 3,
+    "Train_Accuracy": "0.4730",
+    "Test_Accuracy": "0.4155"
+}{
+    "Epoch": 4,
+    "Train_Accuracy": "0.5563",
+    "Test_Accuracy": "0.5167"
+}{
+    "Epoch": 5,
+    "Train_Accuracy": "0.6234",
+    "Test_Accuracy": "0.5814"
+}{
+    "Epoch": 6,
+    "Train_Accuracy": "0.6860",
+    "Test_Accuracy": "0.6363"
+}{
+    "Epoch": 7,
+    "Train_Accuracy": "0.7457",
+    "Test_Accuracy": "0.6877"
+}{
+    "Epoch": 8,
+    "Train_Accuracy": "0.7861",
+    "Test_Accuracy": "0.7426"
+}{
+    "Epoch": 9,
+    "Train_Accuracy": "0.8236",
+    "Test_Accuracy": "0.7656"
+}{
+    "Epoch": 10,
+    "Train_Accuracy": "0.8500",
+    "Test_Accuracy": "0.7917"
+}{
+    "Epoch": 11,
+    "Train_Accuracy": "0.8836",
+    "Test_Accuracy": "0.8209"
+}{
+    "Epoch": 12,
+    "Train_Accuracy": "0.9027",
+    "Test_Accuracy": "0.8438"
+}{
+    "Epoch": 13,
+    "Train_Accuracy": "0.9263",
+    "Test_Accuracy": "0.8458"
+}{
+    "Epoch": 14,
+    "Train_Accuracy": "0.9416",
+    "Test_Accuracy": "0.8555"
+}{
+    "Epoch": 15,
+    "Train_Accuracy": "0.9538",
+    "Test_Accuracy": "0.8544"
+}{
+    "Epoch": 16,
+    "Train_Accuracy": "0.9599",
+    "Test_Accuracy": "0.8618"
+}{
+    "Epoch": 17,
+    "Train_Accuracy": "0.9638",
+    "Test_Accuracy": "0.8657"
+}{
+    "Epoch": 18,
+    "Train_Accuracy": "0.9675",
+    "Test_Accuracy": "0.8516"
+}{
+    "Epoch": 19,
+    "Train_Accuracy": "0.9727",
+    "Test_Accuracy": "0.8649"
+}{
+    "Epoch": 20,
+    "Train_Accuracy": "0.9773",
+    "Test_Accuracy": "0.8746"
+}{
+    "Epoch": 21,
+    "Train_Accuracy": "0.9854",
+    "Test_Accuracy": "0.8742"
+}{
+    "Epoch": 22,
+    "Train_Accuracy": "0.9832",
+    "Test_Accuracy": "0.8793"
+}{
+    "Epoch": 23,
+    "Train_Accuracy": "0.9754",
+    "Test_Accuracy": "0.8808"
+}{
+    "Epoch": 24,
+    "Train_Accuracy": "0.9806",
+    "Test_Accuracy": "0.8660"
+}{
+    "Epoch": 25,
+    "Train_Accuracy": "0.9869",
+    "Test_Accuracy": "0.8886"
+}{
+    "Epoch": 26,
+    "Train_Accuracy": "0.9850",
+    "Test_Accuracy": "0.8695"
+}{
+    "Epoch": 27,
+    "Train_Accuracy": "0.9889",
+    "Test_Accuracy": "0.8945"
+}{
+    "Epoch": 28,
+    "Train_Accuracy": "0.9900",
+    "Test_Accuracy": "0.8952"
+}{
+    "Epoch": 29,
+    "Train_Accuracy": "0.9845",
+    "Test_Accuracy": "0.9042"
+}{
+    "Epoch": 30,
+    "Train_Accuracy": "0.9869",
+    "Test_Accuracy": "0.9011"
+}{
+    "Epoch": 31,
+    "Train_Accuracy": "0.9876",
+    "Test_Accuracy": "0.8828"
+}{
+    "Epoch": 32,
+    "Train_Accuracy": "0.9843",
+    "Test_Accuracy": "0.8933"
+}{
+    "Epoch": 33,
+    "Train_Accuracy": "0.9926",
+    "Test_Accuracy": "0.8879"
+}{
+    "Epoch": 34,
+    "Train_Accuracy": "0.9845",
+    "Test_Accuracy": "0.8945"
+}{
+    "Epoch": 35,
+    "Train_Accuracy": "0.9939",
+    "Test_Accuracy": "0.8956"
+}{
+    "Epoch": 36,
+    "Train_Accuracy": "0.9904",
+    "Test_Accuracy": "0.8684"
+}{
+    "Epoch": 37,
+    "Train_Accuracy": "0.9884",
+    "Test_Accuracy": "0.9050"
+}{
+    "Epoch": 38,
+    "Train_Accuracy": "0.9932",
+    "Test_Accuracy": "0.9073"
+}{
+    "Epoch": 39,
+    "Train_Accuracy": "0.9926",
+    "Test_Accuracy": "0.9128"
+}{
+    "Epoch": 40,
+    "Train_Accuracy": "0.9893",
+    "Test_Accuracy": "0.8952"
+}{
+    "Epoch": 41,
+    "Train_Accuracy": "0.9858",
+    "Test_Accuracy": "0.9120"
+}{
+    "Epoch": 42,
+    "Train_Accuracy": "0.9952",
+    "Test_Accuracy": "0.9116"
+}{
+    "Epoch": 43,
+    "Train_Accuracy": "0.9985",
+    "Test_Accuracy": "0.9042"
+}{
+    "Epoch": 44,
+    "Train_Accuracy": "0.9961",
+    "Test_Accuracy": "0.9073"
+}{
+    "Epoch": 45,
+    "Train_Accuracy": "0.9917",
+    "Test_Accuracy": "0.8995"
+}{
+    "Epoch": 46,
+    "Train_Accuracy": "0.9906",
+    "Test_Accuracy": "0.8988"
+}{
+    "Epoch": 47,
+    "Train_Accuracy": "0.9869",
+    "Test_Accuracy": "0.9069"
+}{
+    "Epoch": 48,
+    "Train_Accuracy": "0.9969",
+    "Test_Accuracy": "0.9155"
+}{
+    "Epoch": 49,
+    "Train_Accuracy": "0.9937",
+    "Test_Accuracy": "0.9120"
+}{
+    "Epoch": 50,
+    "Train_Accuracy": "0.9937",
+    "Test_Accuracy": "0.9019"
+}
