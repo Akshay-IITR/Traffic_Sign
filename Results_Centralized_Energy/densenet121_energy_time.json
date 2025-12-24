@@ -1,0 +1,6 @@
+{
+    "Model": "densenet121",
+    "Training_Time_sec": 25147.86,
+    "Energy_kWh": 3.088988,
+    "Energy_KJ": 11120.358
+}

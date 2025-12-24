@@ -1,0 +1,6 @@
+{
+    "Model": "mobilenet_v3s",
+    "Training_Time_sec": 8958.17,
+    "Energy_kWh": 1.034377,
+    "Energy_KJ": 3723.758
+}

@@ -1,0 +1,6 @@
+{
+    "Model": "resnet18",
+    "Training_Time_sec": 12005.46,
+    "Energy_kWh": 1.394899,
+    "Energy_KJ": 5021.638
+}

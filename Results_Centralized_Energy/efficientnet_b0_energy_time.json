@@ -1,0 +1,6 @@
+{
+    "Model": "efficientnet_b0",
+    "Training_Time_sec": 14539.01,
+    "Energy_kWh": 1.775696,
+    "Energy_KJ": 6392.507
+}
